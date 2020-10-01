@@ -1,0 +1,45 @@
+body{
+    margin: 25%;
+    margin-top: 1%;
+    width: 45%;
+    border: 1px solid;
+    padding: 1%;
+    padding-bottom: 1%;
+    
+}
+.profile{
+    float: right;
+    width: 12%;
+    margin-right: 10%;
+    margin-top: 8%;
+    
+}
+.profile img{
+    height: 120px;
+    width: 150px;
+   
+}
+.cv{
+    text-align: center;
+    font-size: 30px;
+    
+}
+.personal{
+    font-size: 20px;
+    
+}
+.pendidikan{
+    font-size: 20px;
+}
+.K{
+    font-size: 20px;
+}
+.J{
+    font-size: 20px;
+}
+.P{
+    font-size: 20px;
+}
+.surat{
+    float: right;
+}
